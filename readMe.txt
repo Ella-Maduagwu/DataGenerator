@@ -1,4 +1,4 @@
-      ******************
+******************
 ## Table of contents
 1. General info
 2. Technology

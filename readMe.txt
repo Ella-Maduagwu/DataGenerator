@@ -12,7 +12,7 @@ This project is designed and built as a tool to help software developers and eng
 
  Simplicity was a top priority in this project and I think I achieved that
 
- I have made a few changes since the submission of the 010 assignment, I have replaced -
+ I have made a few changes since from the original design, I have replaced -
  - the option to continue an existing project with the function that will allow the user choose a Template for the dataset they want generated.
 
 *******************
@@ -31,7 +31,7 @@ How to successfully run this program
 
 #step 1
 please have the connection details for your Database at hand
-If you don't have one, it's very easy to create a database, I recommend MySQL database as that was the Database used for this project
+If you don't have one, it's very easy to create a database, I recommend MySQL as that was the Database used for this project
 
 please follow the steps below to create a database :
 
